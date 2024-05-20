@@ -105,7 +105,7 @@ nav {
   height: 100px;
   width: 100%;
   max-width: 1000px;
-  margin: 0 auto;
+  margin: 0 auto 24px auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
